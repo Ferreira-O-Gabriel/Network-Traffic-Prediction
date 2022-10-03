@@ -1,7 +1,7 @@
 # Network-Traffic-Prediction
 
 This repository is part of the survey paper "Forecasting Network Traffic: A Survey and Tutorial with Open-Source Comparative Evaluation", that is 
-concerned with mobile Network Traffic Prediction. In such a work, many different approaches applied to prediction models on the last 20 years 
+concerned with mobile Network Traffic Prediction. In such a work, many different approaches applied to prediction models over the last 20 years 
 are explained from a mathematical perspective, and simulations with a real world scenario data set are performed with six different approaches:
 RNN, LSTM, GRU, CNN, SARIMA, and decomposed SARIMA. We provide a small version of the data set and the codes developed, so other researchers can 
 compare their approaches with the ones we provided or even use them as a foundation for more advanced solutions.
